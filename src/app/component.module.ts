@@ -22,9 +22,11 @@ import { Main } from './screens/owner/sections/main';
 import { AmountBadge } from './screens/owner/components/amountBadge';
 import { CardItem } from './screens/owner/components/cardItem';
 import { ListItem } from './screens/owner/components/listItem';
+import { HomePage } from './screens/homepage/homePage';
 
 @NgModule({
   declarations: [
+    HomePage,
     Header,
     ShopBanner,
     NavBar,
@@ -45,7 +47,7 @@ import { ListItem } from './screens/owner/components/listItem';
     AmountBadge,
     CardItem,
     ListItem,
-    
+
   ],
   imports: [
     BrowserModule,

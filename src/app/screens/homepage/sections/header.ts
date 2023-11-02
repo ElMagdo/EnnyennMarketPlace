@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { ShopBanner } from '../components/shopBanner';
 
 @Component({
   selector: 'header',
