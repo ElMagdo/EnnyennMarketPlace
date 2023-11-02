@@ -16,6 +16,12 @@ import { Testimonial } from './screens/homepage/sections/testimonial';
 import { NewLetter } from './screens/homepage/sections/newsLetter';
 import { States } from './screens/homepage/sections/states';
 import { Footer } from './screens/homepage/sections/footer';
+import { SideNav } from './screens/owner/sections/sideNav';
+import { Side } from './screens/owner/sections/side';
+import { Main } from './screens/owner/sections/main';
+import { AmountBadge } from './screens/owner/components/amountBadge';
+import { CardItem } from './screens/owner/components/cardItem';
+import { ListItem } from './screens/owner/components/listItem';
 
 @NgModule({
   declarations: [
@@ -32,7 +38,14 @@ import { Footer } from './screens/homepage/sections/footer';
     Testimonial,
     NewLetter,
     States,
-    Footer
+    Footer,
+    SideNav,
+    Side,
+    Main,
+    AmountBadge,
+    CardItem,
+    ListItem,
+    
   ],
   imports: [
     BrowserModule,
