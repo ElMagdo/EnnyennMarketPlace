@@ -15,7 +15,7 @@ import { Component } from '@angular/core';
               <span class="geo"><img src="../../assets/homepage/geo-alt.png" alt="geo-alt"/></span> 
               &nbsp;Guangzhou, China
             </div>
-            <div class="tx">Take a tour <span class="chv"><img src="../../assets/homepage/chevron-right.png" alt="chevron-right"/></span></div>
+            <div class="tx">Take a tour &nbsp;<span class="chv"><img src="../../assets/homepage/chevron-right.png" alt="chevron-right"/></span></div>
           </div>
         </div>
         <div class="ryt">
@@ -27,7 +27,7 @@ import { Component } from '@angular/core';
               <span class="geo"><img src="../../assets/homepage/geo-alt.png" alt="geo-alt"/></span>
               &nbsp;Frankfurt, Germany
             </div>
-            <div class="tx">Take a tour <span class="chv"><img src="../../assets/homepage/chevron-right.png" alt="chevron-right"/></span></div>
+            <div class="tx">Take a tour &nbsp;<span class="chv"><img src="../../assets/homepage/chevron-right.png" alt="chevron-right"/></span></div>
           </div>
         </div>
         <div class="b">
@@ -38,7 +38,7 @@ import { Component } from '@angular/core';
               <span class="geo"><img src="../../assets/homepage/geo-alt.png" alt="geo-alt"/></span> 
               &nbsp;Frankfurt, Germany
             </div>
-            <div class="tx">Take a tour <span class="chv"><img src="../../assets/homepage/chevron-right.png" alt="chevron-right"/></span></div>
+            <div class="tx">Take a tour &nbsp;<span class="chv"><img src="../../assets/homepage/chevron-right.png" alt="chevron-right"/></span></div>
           </div>
         </div>
         </div>
