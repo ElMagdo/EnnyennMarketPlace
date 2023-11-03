@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
       <header></header>
       <quote></quote>
       <trynow></trynow>
+      <categories></categories>
+      <factories></factories>
     </div>
   `,
 })
